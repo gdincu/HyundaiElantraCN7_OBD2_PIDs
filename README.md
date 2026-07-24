@@ -1313,7 +1313,11 @@ CD: Current</td>
     
 <h2> Custom PIDs </h2>
 
-<a href="https://github.com/gdincu/HyundaiElantraCN7-OBD2-PIDs/blob/main/CN7.csv">These</a> PIDs are setup to be used via the Torque Pro app and therefore some of the formulas are based on the <a href="https://wiki.torque-bhp.com/view/Equations">Torque Wiki</a>.
+<h3>Torque</h3>
+<a href="https://github.com/gdincu/HyundaiElantraCN7-OBD2-PIDs/blob/main/CN7.csv">These</a> PIDs are setup to be used via the Torque app and therefore some of the formulas are based on the <a href="https://wiki.torque-bhp.com/view/Equations">Torque Wiki</a>.
+
+<h3>Car Scanner</h3>
+<a href="https://github.com/gdincu/HyundaiElantraCN7_OBD2_PIDs/blob/main/CN7.csp">These</a> PIDs are setup to be used via the Car Scanner app and therefore some of the formulas are based on the <a href="[https://wiki.torque-bhp.com/view/Equations](https://www.carscanner.info/custompids/)">Car Scanner Wiki</a>.
   
 <h2> Torque Pro Dashboards </h2>
 
