@@ -236,5 +236,3 @@ Support mask: `00000008`
 
 <h3>Car Scanner</h3>
 <a href="https://github.com/gdincu/HyundaiElantraCN7_OBD2_PIDs/blob/main/CN7.csp">These</a> PIDs are setup to be used via the Car Scanner app and therefore some of the formulas are based on the <a href="https://www.carscanner.info/custompids/)">Car Scanner Wiki</a>.
-
-`CN7_Buttons.csp` is experimental / untested - action buttons that send commands to the car. Verify carefully before use.
